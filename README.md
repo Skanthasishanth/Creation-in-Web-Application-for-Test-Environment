@@ -65,7 +65,8 @@ echo "Hello World";
 ### NAME: S KANTHA SISHANTH
 
 <br><br>
-<br>
+<br><br>
+<br><br>
 ### Terminal:
 
 ![6a](https://github.com/user-attachments/assets/2a7858a0-7d02-4346-9567-1c000f38d9ee)
