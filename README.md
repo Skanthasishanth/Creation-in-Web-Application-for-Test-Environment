@@ -64,6 +64,7 @@ echo "Hello World";
 ### REG NUMBER: 212222100020
 ### NAME: S KANTHA SISHANTH
 
+<br><br>
 ### Terminal:
 
 ![6a](https://github.com/user-attachments/assets/2a7858a0-7d02-4346-9567-1c000f38d9ee)
